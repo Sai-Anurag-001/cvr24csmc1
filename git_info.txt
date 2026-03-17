@@ -1,0 +1,6 @@
+Git is a distributed version control system.
+Version control system(VCS) meanssoftware that tracks and manages changes to source code over time, allowing developers to collaborate and revert to previous versions.
+It helps developers track changes in code.
+Git allows collaboration among multiple developers.
+GitHub is a platform to host Git repositories online.
+A repository (or "repo") in GitHub is the fundamental building block of a project; it is essentially a smart folder that contains all of your project files, source code, and every file's complete revision history.
